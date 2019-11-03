@@ -1,10 +1,14 @@
 {
   "name": "log-suspend",
   "version": "0.1.0",
-  "description": "A little tool that suspend console.xxx output. Ideal for keeping tests output clean.",
+  "description": "🧙 A little tool that suspend console.xxx output. Ideal for keeping tests output clean.",
   "main": "./lib/log-suspend.js",
   "license": "MIT",
-  "dependencies": {
-    "@types/node": "^12.12.5"
+  "scripts": {
+      "test": "tap"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "^14.9.1"
   }
 }
