@@ -1,6 +1,6 @@
 {
     "name": "log-suspend",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "🧙 A little tool that suspend console.xxx output. Ideal for keeping tests output clean.",
     "main": "./lib/log-suspend.js",
     "license": "MIT",
