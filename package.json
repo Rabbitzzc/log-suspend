@@ -11,7 +11,7 @@
     "private": false,
     "repository": {
         "type": "git",
-        "url": "https://github.com/Rabbitzzc/remove-item-array"
+        "url": "https://github.com/Rabbitzzc/log-suspend"
     },
     "dependencies": {},
     "devDependencies": {
