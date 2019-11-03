@@ -1,0 +1,16 @@
+language: node_js
+node_js:
+  - '8'
+cache: yarn
+install: yarn
+script: yarn test
+deploy: 
+    provider: npm
+    email: zzclovelcs@gmail.com
+    skip_cleanup: true
+    api_key:
+        secure: Q6jsiWKDywN2vOkBs3NAIA
+    on:
+        tags: true
+        branch: master
+    tag: latest
