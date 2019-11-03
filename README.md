@@ -1,4 +1,6 @@
 # log-suspend
+![](https://travis-ci.com/Rabbitzzc/log-suspend.svg?branch=master)
+
 🧙‍ A little tool that suspend `console.xxx` output. Ideal for keeping tests output clean.
 
 ## 💡 why need this.

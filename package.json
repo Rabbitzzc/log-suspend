@@ -1,14 +1,28 @@
 {
-  "name": "log-suspend",
-  "version": "0.1.0",
-  "description": "🧙 A little tool that suspend console.xxx output. Ideal for keeping tests output clean.",
-  "main": "./lib/log-suspend.js",
-  "license": "MIT",
-  "scripts": {
-      "test": "tap"
-  },
-  "dependencies": {},
-  "devDependencies": {
-    "tap": "^14.9.1"
-  }
+    "name": "log-suspend",
+    "version": "0.1.0",
+    "description": "🧙 A little tool that suspend console.xxx output. Ideal for keeping tests output clean.",
+    "main": "./lib/log-suspend.js",
+    "license": "MIT",
+    "scripts": {
+        "test": "tap"
+    },
+    "author": "Rabbitzzc",
+    "private": false,
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Rabbitzzc/remove-item-array"
+    },
+    "dependencies": {},
+    "devDependencies": {
+        "tap": "^14.9.1"
+    },
+    "keywords": [
+        "log",
+        "log-suspend",
+        "console",
+        "console.log",
+        "stop",
+        "control"
+    ]
 }
